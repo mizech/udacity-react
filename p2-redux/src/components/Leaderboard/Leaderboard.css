@@ -1,0 +1,28 @@
+.nav-item {
+    margin-right: 2rem;
+}
+
+.user-profil {
+    margin-bottom: 1.25rem;
+    display: flex;
+}
+
+.user-status {
+    padding: 0.5rem 1.5rem;
+    width: 100%;
+}
+
+.user-status h3 {
+    font-size: 1.5rem;
+}
+
+.user-status p {
+    font-size: 1.1rem;
+}
+
+.user-status p span {
+    font-weight: 800;
+    font-size: 1.1rem;
+    display: inline-block;
+    width: 40%;
+}

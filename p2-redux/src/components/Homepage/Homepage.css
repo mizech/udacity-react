@@ -1,0 +1,18 @@
+.ghost-button {
+    padding: 0.5rem 0.75rem;
+    text-decoration: none;
+    color: black;
+    border: 2px solid;
+    border-radius: 6px;
+    margin: 1.25rem 1rem; 
+    display: inline-block;
+    font-weight: 900;
+}
+
+.ghost-button:hover {
+    opacity: 0.6;
+}
+
+.ghost-button:active {
+    opacity: 0.3;
+}

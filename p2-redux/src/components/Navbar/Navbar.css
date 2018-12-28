@@ -1,0 +1,24 @@
+.nav-item {
+    margin-right: 2rem;
+}
+
+.active-link {
+    color: white;
+    background-color: black;
+    padding: 0.4rem 0.6rem;
+    border-radius: 6px;
+}
+
+.nav-link {
+    padding: 0.4rem 0.6rem;
+    border-radius: 6px;
+}
+
+.nav-link:hover {
+    color: black;
+    background-color: white;
+}
+
+.nav-link:active {
+    opacity: 0.6;
+}

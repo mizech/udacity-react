@@ -1,0 +1,25 @@
+.optionResult {
+    margin: 1rem 0.4rem 1.25rem;
+}
+
+.question {
+    font-size: 1.2rem;
+    margin-bottom: 0.7rem;
+}
+
+.question.selected {
+    color: white;
+    background-color: black;
+    font-weight: 900;
+    padding: 2px 3px;
+    border-radius: 6px;
+}
+
+.question.selected:after {
+    content: "Your selection!";
+    margin-left: 5rem;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 1rem;
+}
+

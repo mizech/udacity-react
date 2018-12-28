@@ -1,0 +1,10 @@
+* {
+    background-color: #fbfcfc;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+
+.wrap {
+    margin: 1.25rem auto;
+    width: 100%;
+    max-width: 800px;
+}
