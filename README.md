@@ -1,6 +1,6 @@
-## UDACITY React - Nanodegree Program
+## UDACITY React
 
-### Projects for Udacity's [React Nanodegree](https://eu.udacity.com/course/react-nanodegree--nd019)
+### Projects for Udacity's [React Nanodegree](https://eu.udacity.com/course/react-nanodegree--nd019) program
 
 1.  **Introduction**: Book Tracking.
 
