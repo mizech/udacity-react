@@ -1,4 +1,4 @@
-## UDACITY React Nanodegree
+## UDACITY React - Nanodegree Program
 
 ### Projects for Udacity's [React Nanodegree](https://eu.udacity.com/course/react-nanodegree--nd019)
 
