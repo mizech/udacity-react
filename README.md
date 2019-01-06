@@ -16,7 +16,7 @@ Used technologies: [React](https://reactjs.org/), [Redux](https://react-redux.js
 
 3.  **React Native**: Mobile Flashcards
 
-A learning app which is based upon flash cards.
+A mobile app for learning based upon flash cards.
 
 Used technologies: [React](https://reactjs.org/), [React Native](https://facebook.github.io/react-native/)
 
